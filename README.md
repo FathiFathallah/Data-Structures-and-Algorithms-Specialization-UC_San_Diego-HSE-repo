@@ -12,5 +12,5 @@
 Each Directory Has a specific course, Each course has its own assignments and problems to be solved.
 I tried to solve the assignments with multiple languages :  C++, Python, Java
 </pre>
-![](problemSolving.jpeg)
+![](graph.jpg)
 
