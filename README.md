@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Specialization by University of California and HSE University, Moscow, Russia.
 <pre>
-  •Approximately 10 months to complete Suggested pace of 6 hours/week.
+  •Approximately 10 months to complete.
   •There are 6 Courses in this Specialization:
         ◘ Algorithmic Toolbox.
         ◘ Data Structures.
@@ -10,6 +10,7 @@
         ◘ Genome Assembly Programming Challenge.
   
 Each Directory Has a specific course, Each course has its own assignments and problems to be solved.
+I tried to solve the assignments with multiple languages :  C++, Python, Java
 </pre>
 ![](problemSolving.jpeg)
 
