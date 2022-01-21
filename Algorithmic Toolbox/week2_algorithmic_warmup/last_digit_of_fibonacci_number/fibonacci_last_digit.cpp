@@ -3,7 +3,7 @@
 //WHAT WE ONLY NEED IS THE LAST DIGIT OF THE NUMBER, SO WE DON'T NEED TO SUM THE WHOLE NUMBER ☺
 #include <iostream>
 
-int get_fibonacci_last_digit_naive(int n) {
+int get_fibonacci_last_digit_optimized(int n) {
 	if (n <= 1)
 		return n;
 
