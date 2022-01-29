@@ -9,7 +9,7 @@
         ◘ Advanced Algorithms and Complexity.
         ◘ Genome Assembly Programming Challenge.
   
-Each Directory Has a specific course, Each course has its own assignments and problems to be solved.
+Each Directory Has a specific course, Each course has its own assignments + PROBLEM STATEMENT.
 I tried to solve the assignments with multiple languages :  C++, Python, Java
 </pre>
 ![](graph.jpg)
