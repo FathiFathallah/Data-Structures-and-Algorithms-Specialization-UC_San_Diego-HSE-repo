@@ -9,7 +9,9 @@
         ◘ Advanced Algorithms and Complexity.
         ◘ Genome Assembly Programming Challenge.
   
-Each Directory Has a specific course with the verified certificate, Each course has its own assignments + PROBLEM STATEMENT.
+Each Directory Has:
+      ◘ A specific course with the certificate of completion.
+      ◘ The assignments + PROBLEM STATEMENT.
 I tried to solve the assignments with multiple languages :  C++, Python, Java
 </pre>
 ![](graph.jpg)
