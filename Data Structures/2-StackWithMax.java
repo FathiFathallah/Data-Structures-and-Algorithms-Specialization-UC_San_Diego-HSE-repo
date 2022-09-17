@@ -1,3 +1,5 @@
+// Push and Pop are O(1) in JAVA , but still getting the max number in a stack would be O(n), In this assignment We tried to do it with O(1)
+
 import java.util.*;
 import java.io.*;
 
